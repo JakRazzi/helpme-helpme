@@ -51,7 +51,7 @@ AUTH0_DOMAIN=yourAuth0Domain
 
 ### Roadmap
 
-View the project roadmap [here](https://github.com/hrr14-hera/hrr14-hera/issues)
+View the project roadmap [here](https://github.com/steggos/helpme-helpme/issues)
 
 
 ## Contributing
