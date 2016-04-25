@@ -4,9 +4,10 @@
 
 ## Team
 
-  - __Product Owner__: Aaron Hildebrand
-  - __Scrum Master__: Kevin Chen
-  - __Development Team Members__: Rocky Murdoch
+  - __Product Owner__: Ryan Haase
+  - __Scrum Master__: Todd Bontrager
+  - __Full Stack Engineer__: Jak Buttarazzi
+  - __Full Stack Engineer__: Rob Bruhn
 
 ## Table of Contents
 
@@ -50,7 +51,7 @@ AUTH0_DOMAIN=yourAuth0Domain
 
 ### Roadmap
 
-View the project roadmap [here](https://github.com/hrr14-hera/hrr14-hera/issues)
+View the project roadmap [here](https://github.com/steggos/helpme-helpme/issues)
 
 
 ## Contributing
